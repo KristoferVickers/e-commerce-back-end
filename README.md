@@ -37,3 +37,5 @@ The project is a simulated back end for an e-commerce site. I used Sequelize, AP
 https://github.com/KristoferVickers/e-commerce-back-end
 
 ## Screenshot
+
+<img src=""> 
