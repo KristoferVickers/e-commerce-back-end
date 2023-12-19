@@ -38,4 +38,4 @@ https://github.com/KristoferVickers/e-commerce-back-end
 
 ## Screenshot
 
-<img src=""> 
+<img src="Develop\assets\e-commerce-backend.png"> 
